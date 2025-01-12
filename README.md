@@ -1,7 +1,5 @@
 # triangle
 
-(Incomplete)
-
 The [Vulkan "Drawing a triangle"](https://docs.vulkan.org/tutorial/latest/00_Introduction.html)
 tutorial but in C instead of C++ and with the Win32 API instead of GLFW.
 
