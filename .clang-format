@@ -1,0 +1,12 @@
+BasedOnStyle: Microsoft
+
+ColumnLimit: 80
+ReflowComments: true
+
+BreakBeforeBraces: Custom
+BraceWrapping:
+    AfterCaseLabel: false
+    BeforeElse: false
+    AfterControlStatement: false
+IndentCaseLabels: true
+AllowShortCaseLabelsOnASingleLine: true
